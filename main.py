@@ -52,13 +52,13 @@ class LojaFranciscoApp:
                 "text": "Faixa de Quantidade",
                 "anchor": "center",
                 "stretch": True,
-                "width": 200
+                "width": 150
             },
             {
                 "text": "Percentual de Desconto",
                 "anchor": "center",
                 "stretch": True,
-                "width": 150
+                "width": 100
             }
         ]
         
